@@ -4,7 +4,7 @@ CÓ 2 FOLDER CHÍNH 1 FOLDER LÀ SRC CODE CHO VÒNG SEMI-FINAL VÀ 1 LÀ CHO VÒ
 
 ## SEMI FINAL SOLUTION
 ### DATA PREPROCESS AND AUGMENT
-Dựa vào quan sát dữ liệu ban đầu tụi em nhận thấy việc giữ nguyên ảnh gốc là 32*32 mang đi train cho các kiến trúc cnn sẽ không được kết quả tốt, vì vậy nhóm em đã sử dụng ISR (IMAGE SUPER-RESOLUTION) dùng để scale lại ảnh từ 32*32 lên 64
+Dựa vào quan sát dữ liệu ban đầu tụi em nhận thấy việc giữ nguyên ảnh gốc là 32x32 mang đi train cho các kiến trúc cnn sẽ không được kết quả tốt, vì vậy nhóm em đã sử dụng ISR (IMAGE SUPER-RESOLUTION) dùng để scale lại ảnh từ 32*32 lên 64
 
 <div align="center">
     <img src="https://github.com/truong04/OAI_MUSH_HUTECH/blob/main/SRC/SEMI/ISR.png" alt="alt text" width="700"/>
